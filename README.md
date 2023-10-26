@@ -1,3 +1,4 @@
 # Ankit-demo
-Created my new repository at Github
-auther -> Ankit Jaiswal
+Created my new repository at Github,
+<br>
+Auther - Ankit Jaiswal
