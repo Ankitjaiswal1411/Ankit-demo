@@ -1,2 +1,3 @@
 # Ankit-demo
-Creating my new repository at Github
+Created my new repository at Github
+auther -> Ankit Jaiswal
